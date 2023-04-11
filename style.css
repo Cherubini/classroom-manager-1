@@ -11,7 +11,7 @@ body{
 #student-list{
     columns: 2;
     font-size: 1.1rem;
-    color: #77ff54;
+    color: #156801;
     list-style-image: url('./icon.svg') ;
 }
 
